@@ -217,7 +217,8 @@ wlo1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 
-![Alt text](<Screenshot from 2023-12-13 12-12-58.png>)
+![Screenshot from 2023-12-13 12-12-58](https://github.com/lucky123485/Podman/assets/151143087/dd35f6e2-4b22-4ac4-a5c8-4fe334706768)
+
 
 # Port Binding of container<a id="port-binding-of-container"></a>
 
@@ -235,7 +236,7 @@ CONTAINER ID   IMAGE                           COMMAND               CREATED    
 
 
 
-!![Alt text](<Screenshot from 2023-12-13 12-14-07.png>)
+![Screenshot from 2023-12-13 12-14-07](https://github.com/lucky123485/Podman/assets/151143087/82bd5e53-ed06-46d1-9b86-4c0b71258468)
 
 
 # To Stop a container<a id="to-stop-a-container"></a>
