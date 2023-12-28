@@ -179,7 +179,7 @@ CONTAINER ID  IMAGE                           COMMAND               CREATED     
 5532a5af1e5c  docker.io/library/nginx:latest  nginx -g daemon o...  About a minute ago  Up About a minute              ecstatic_dirac
 
 
-
+```
 bhavesh@bhavesh-HP-Laptop-15-da1xxx:~$ ifconfig
 docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
         inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
@@ -215,7 +215,7 @@ wlo1: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 22949  bytes 9142890 (9.1 MB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-
+```
 
 ![Screenshot from 2023-12-13 12-12-58](https://github.com/lucky123485/Podman/assets/151143087/dd35f6e2-4b22-4ac4-a5c8-4fe334706768)
 
