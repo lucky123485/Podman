@@ -3,15 +3,15 @@
 
 [What is Podman?](#what-is-podman)
 
-[Why Podman? (Features of Podman)](#WhyPodman? (Features of Podman))
+[Why Podman? (Features of Podman)](#why-podman (features-of-podman))
 
-[What are Pods?](#WhatarePods)
+[What are Pods?](#what-are-pods)
 
-[Buildah and Skopea](#BuildahandSkopea)
+[Buildah and Skopea](#buildah-and-skopea)
 
-[Containers](#Containers)
+[Containers](#containers)
 
-[Step for Installation](#StepforInstallation)
+[Step for Installation](#step-for-installation)
 
 # What is Podman?<a id="what-is-podman"></a>
 
