@@ -3,7 +3,7 @@
 
 [What is Podman?](#what-is-podman)
 
-[Why Podman? (Features of Podman)](#why-podman-(features-of-podman))
+[Why Podman?](#why-podman)
 
 [What are Pods?](#what-are-pods)
 
@@ -20,7 +20,7 @@
 - Podman allows you to package an application and its dependencies into a single container that can run anywhere without any dependency on the host system.
 
 
-# Why Podman? (Features of Podman)<a id="why-podman-features-of-podman"></a>
+# Why Podman?
 
 - Daemonless:- Podman does not require background daemon to run, make it more lightweight and efficient than Docker.
 
