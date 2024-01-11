@@ -3,7 +3,7 @@
 
 [What is Podman?](#what-is-podman)
 
-[Why Podman? (Features of Podman)](#why-podman(features-of-podman))
+[Why Podman? (Features of Podman)](#why-podman-(features-of-podman))
 
 [What are Pods?](#what-are-pods)
 
