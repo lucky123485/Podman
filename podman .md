@@ -11,7 +11,7 @@
 
 [Containers](#containers)
 
-[Step for Installation:](#step-for-installation)
+[Step for Installation](#step-for-installation)
 
 # What is Podman?<a id="what-is-podman"></a>
 
@@ -48,7 +48,7 @@ Both used with Podman to manager container images and build container.
 A container is a lightweight, portable, and self-sufficient unit that can run applications and their dependencies. Containers package the application code, runtime, libraries, and other necessary components into a single unit. They run on a shared operating system kernel and isolate the application processes from each other and from the host system. Popular containerization platforms include Docker and container orchestration tools like Kubernetes.
 
 
-# Step for Installation:-<a id="step-for-installation-"></a>
+# Step for Installation<a id="step-for-installation-"></a>
 
 ## Prerequisite<a id="prerequisite"></a>
 ```
