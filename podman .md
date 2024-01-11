@@ -11,7 +11,7 @@
 
 [Containers](#containers)
 
-[Step for Installation](#step-for-installation)
+[Step for Installation:](#step-for-installation)
 
 # What is Podman?<a id="what-is-podman"></a>
 
